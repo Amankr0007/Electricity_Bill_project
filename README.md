@@ -31,8 +31,7 @@ Software Requirements:
 
 # Components :
 1. MySQL Database -: "ebs"
-2. Java Files -: Named as "About", "BillDetails", "CalculateBill", "Conn""CustomerDetails", "DepositeDetails","GenerateBills","LastBill","Login","MeterInfo",
-"NewCustomer", "PayBill", "Paytm", "project", "Signup",[Electricity-Billing-System.zip](https://github.com/user-attachments/files/18747066/Electricity-Billing-System.zip)
-"Updatelnformation", "ViewInformation".
+2. Java Files -: Named as "About", "BillDetails", "CalculateBill","Conn","CustomerDetails","DepositeDetails",
+"GenerateBills","LastBill","Login","MeterInfo","NewCustomer", "PayBill", "Paytm", "project", "Signup","Updatelnformation", "ViewInformation".
 3. Image icons used in java files.
-4. Libraries -: MySQL java connector, JDK17, rs2xml.
+4. Libraries -: MySQL java connector, JDK17, rs2xml.
