@@ -8,14 +8,13 @@
 • This computerized system will make the overall billing system easy, accessible, comfortable, and effective for consumers.
 # Requirements:
 Hardware Requirements:
-• Hardware Specification:- Processor Intel Pentium V or
-higher
+* Hardware Specification:- Processor Intel Pentium V or higher
 • Clock Speed :- 1.7 GHz or more
 • System Bus :- 64 bits
 • Monitor :- LCD Monitor
 • Keyboard :- Standard keyboard
 • Mouse:- Compatible mouse or Touchpad
-Software Requirements:
+* Software Requirements:
 • Operating System :- Windows 10
 • Software :- Microsoft SQL Server
 • Front End :- Java core/swings (NetBeans)
